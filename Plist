@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+        <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>http://192.168.3.135:88/LCIP/LEAP/Download/default/2016/1/29/dc0cd034d4b94475a20cb2bec92c55c8/_v3_/CZT_IOS_Longrise.ipa</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>full-size-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>http://220.231.252.14/LEAP/LCIPModule/LCIP/Web/Home/img/appdownlogo.png</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>http://220.231.252.14/LEAP/LCIPModule/LCIP/Web/Home/img/appdownlogo.png</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.CZT-HN-Longrise</string>
+                    <key>bundle-version</key>
+                    <string>1.01</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>快处快赔</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
